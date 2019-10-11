@@ -1,6 +1,7 @@
 #!/bin/bash
 
 #### Make sure you have Docker engine installed on the host ####
+###### TODO - Support parameters ######
 
 export AWS_ACCESS_KEY_ID=xxxxxxxxxx
 export AWS_SECRET_ACCESS_KEY=xxxxxxxxx
